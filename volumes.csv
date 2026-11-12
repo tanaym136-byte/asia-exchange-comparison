@@ -1,0 +1,408 @@
+date,exchange,market,turnover_local,currency,trades,source
+2026-08-03,BSE,Cash market,102642243690,INR,3599104,www.bseindia.com
+2026-08-04,BSE,Cash market,95080647880,INR,3273784,www.bseindia.com
+2026-08-05,BSE,Cash market,111920170745,INR,3718538,www.bseindia.com
+2026-08-06,BSE,Cash market,122264808958,INR,3836664,www.bseindia.com
+2026-08-07,BSE,Cash market,108342994583,INR,3623121,www.bseindia.com
+2026-08-10,BSE,Cash market,102221674896,INR,4630913,www.bseindia.com
+2026-08-11,BSE,Cash market,101101330016,INR,3422262,www.bseindia.com
+2026-08-12,BSE,Cash market,113691049840,INR,3624195,www.bseindia.com
+2026-08-13,BSE,Cash market,134186884410,INR,4203931,www.bseindia.com
+2026-08-14,BSE,Cash market,92381450265,INR,3915340,www.bseindia.com
+2026-08-17,BSE,Cash market,91276273908,INR,3511629,www.bseindia.com
+2026-08-18,BSE,Cash market,109419854242,INR,3784479,www.bseindia.com
+2026-08-19,BSE,Cash market,93281318650,INR,3767240,www.bseindia.com
+2026-08-20,BSE,Cash market,93666980638,INR,3331401,www.bseindia.com
+2026-08-21,BSE,Cash market,100210255056,INR,3378658,www.bseindia.com
+2026-08-24,BSE,Cash market,115052468335,INR,3875507,www.bseindia.com
+2026-08-25,BSE,Cash market,79787129087,INR,3641418,www.bseindia.com
+2026-08-26,BSE,Cash market,131626261004,INR,3189861,www.bseindia.com
+2026-08-27,BSE,Cash market,133534944389,INR,3733861,www.bseindia.com
+2026-08-28,BSE,Cash market,94670231306,INR,3870491,www.bseindia.com
+2026-08-31,BSE,Cash market,97675674140,INR,4134809,www.bseindia.com
+2026-09-01,BSE,Cash market,90278706113,INR,3716304,www.bseindia.com
+2026-09-02,BSE,Cash market,212027247738,INR,4345589,www.bseindia.com
+2026-09-03,BSE,Cash market,106396999446,INR,3800588,www.bseindia.com
+2026-09-04,BSE,Cash market,131647063213,INR,4334200,www.bseindia.com
+2026-09-07,BSE,Cash market,86967138066,INR,4299755,www.bseindia.com
+2026-09-08,BSE,Cash market,94365307773,INR,4136139,www.bseindia.com
+2026-09-09,BSE,Cash market,123407320030,INR,3849224,www.bseindia.com
+2026-09-10,BSE,Cash market,91254339622,INR,3335642,www.bseindia.com
+2026-09-11,BSE,Cash market,93776700714,INR,3872029,www.bseindia.com
+2026-09-15,BSE,Cash market,88883854353,INR,4032814,www.bseindia.com
+2026-09-16,BSE,Cash market,84628203061,INR,3918920,www.bseindia.com
+2026-09-17,BSE,Cash market,77110032238,INR,3152957,www.bseindia.com
+2026-09-18,BSE,Cash market,102903342226,INR,3587162,www.bseindia.com
+2026-09-21,BSE,Cash market,81717133085,INR,3213956,www.bseindia.com
+2026-09-22,BSE,Cash market,94991845464,INR,4501431,www.bseindia.com
+2026-09-23,BSE,Cash market,112285485237,INR,3677648,www.bseindia.com
+2026-09-24,BSE,Cash market,206723635723,INR,6001581,www.bseindia.com
+2026-09-25,BSE,Cash market,130806418210,INR,3976291,www.bseindia.com
+2026-09-28,BSE,Cash market,93832580264,INR,4458355,www.bseindia.com
+2026-09-29,BSE,Cash market,105757486385,INR,4353542,www.bseindia.com
+2026-09-30,BSE,Cash market,117353570278,INR,4439128,www.bseindia.com
+2026-10-01,BSE,Cash market,120969890682,INR,5092187,www.bseindia.com
+2026-10-05,BSE,Cash market,105451317036,INR,3971547,www.bseindia.com
+2026-10-06,BSE,Cash market,94982316678,INR,3459077,www.bseindia.com
+2026-10-07,BSE,Cash market,110765566611,INR,3550965,www.bseindia.com
+2026-10-08,BSE,Cash market,204443869173,INR,4536176,www.bseindia.com
+2026-10-09,BSE,Cash market,95938184804,INR,3375243,www.bseindia.com
+2026-10-12,BSE,Cash market,104783778349,INR,3245158,www.bseindia.com
+2026-10-13,BSE,Cash market,98915845812,INR,3418329,www.bseindia.com
+2026-10-14,BSE,Cash market,99652240038,INR,3423114,www.bseindia.com
+2026-10-15,BSE,Cash market,100414480941,INR,3725934,www.bseindia.com
+2026-10-16,BSE,Cash market,92921422388,INR,3252299,www.bseindia.com
+2026-10-19,BSE,Cash market,74747800176,INR,3059619,www.bseindia.com
+2026-10-21,BSE,Cash market,87183131004,INR,3812543,www.bseindia.com
+2026-10-22,BSE,Cash market,86051920256,INR,3621679,www.bseindia.com
+2026-10-23,BSE,Cash market,105192301926,INR,4926458,www.bseindia.com
+2026-10-26,BSE,Cash market,86573687759,INR,3879892,www.bseindia.com
+2026-10-27,BSE,Cash market,94937047610,INR,3536674,www.bseindia.com
+2026-10-28,BSE,Cash market,97913172098,INR,4337060,www.bseindia.com
+2026-10-29,BSE,Cash market,103892832220,INR,3787185,www.bseindia.com
+2026-10-30,BSE,Cash market,93434314937,INR,4020122,www.bseindia.com
+2026-11-02,BSE,Cash market,90487130538,INR,3695288,www.bseindia.com
+2026-11-03,BSE,Cash market,97983147468,INR,4018640,www.bseindia.com
+2026-11-04,BSE,Cash market,107151886758,INR,3836884,www.bseindia.com
+2026-11-05,BSE,Cash market,143395172927,INR,4944888,www.bseindia.com
+2026-11-06,BSE,Cash market,157704115780,INR,4223158,www.bseindia.com
+2026-11-09,BSE,Cash market,92239295824,INR,3737792,www.bseindia.com
+2026-11-11,BSE,Cash market,120529976618,INR,4282128,www.bseindia.com
+2026-08-03,HKEX,Main Board,255178953156,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-04,HKEX,Main Board,257819451491,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-05,HKEX,Main Board,278042688687,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-06,HKEX,Main Board,255226758588,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-07,HKEX,Main Board,259685732141,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-10,HKEX,Main Board,240279657389,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-11,HKEX,Main Board,210942449348,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-12,HKEX,Main Board,216779070945,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-13,HKEX,Main Board,263710072490,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-14,HKEX,Main Board,254179239620,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-17,HKEX,Main Board,210770397254,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-18,HKEX,Main Board,255540862521,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-19,HKEX,Main Board,253174985368,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-20,HKEX,Main Board,269118528873,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-21,HKEX,Main Board,257277433846,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-24,HKEX,Main Board,291151406076,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-25,HKEX,Main Board,254079227813,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-26,HKEX,Main Board,254823556432,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-27,HKEX,Main Board,233514818711,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-28,HKEX,Main Board,231209331209,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-31,HKEX,Main Board,314819382312,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-01,HKEX,Main Board,238735426706,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-02,HKEX,Main Board,216690722379,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-03,HKEX,Main Board,199382376348,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-04,HKEX,Main Board,276833271732,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-07,HKEX,Main Board,209672778727,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-08,HKEX,Main Board,206170466744,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-09,HKEX,Main Board,204944647234,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-10,HKEX,Main Board,198865114861,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-11,HKEX,Main Board,228430558744,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-14,HKEX,Main Board,192625473162,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-15,HKEX,Main Board,187201120807,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-16,HKEX,Main Board,181085482646,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-17,HKEX,Main Board,185585664855,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-18,HKEX,Main Board,266512528155,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-21,HKEX,Main Board,202730667046,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-22,HKEX,Main Board,249214259580,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-23,HKEX,Main Board,184306988942,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-24,HKEX,Main Board,159551820014,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-25,HKEX,Main Board,102202959184,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-28,HKEX,Main Board,177482238485,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-29,HKEX,Main Board,184629881409,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-09-30,HKEX,Main Board,187157770418,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-02,HKEX,Main Board,145804272791,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-05,HKEX,Main Board,98101632852,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-06,HKEX,Main Board,98264784269,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-07,HKEX,Main Board,94699652357,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-08,HKEX,Main Board,207255289731,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-09,HKEX,Main Board,209199247143,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-12,HKEX,Main Board,162632200890,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-13,HKEX,Main Board,187565930276,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-14,HKEX,Main Board,193475006627,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-15,HKEX,Main Board,224164565414,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-16,HKEX,Main Board,178207245132,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-20,HKEX,Main Board,190454582738,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-21,HKEX,Main Board,176597304443,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-22,HKEX,Main Board,256050949416,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-23,HKEX,Main Board,249783590343,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-26,HKEX,Main Board,175758489826,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-27,HKEX,Main Board,178347926416,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-28,HKEX,Main Board,181427944454,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-29,HKEX,Main Board,189453187477,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-10-30,HKEX,Main Board,214317819785,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-02,HKEX,Main Board,204840390739,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-03,HKEX,Main Board,236404374446,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-04,HKEX,Main Board,236896230172,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-05,HKEX,Main Board,356666687390,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-06,HKEX,Main Board,247427708159,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-09,HKEX,Main Board,173706542410,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-10,HKEX,Main Board,178174800443,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-11-11,HKEX,Main Board,180749147484,HKD,,github.com/sycheng0924/hsi-data (HKEX Daily Quotations)
+2026-08-03,KRX,KONEX,2210620143,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-04,KRX,KONEX,1059912470,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-05,KRX,KONEX,1200493272,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-06,KRX,KONEX,1059530569,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-07,KRX,KONEX,1082407062,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-10,KRX,KONEX,1259035950,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-11,KRX,KONEX,721497870,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-12,KRX,KONEX,743890354,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-13,KRX,KONEX,1011939377,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-14,KRX,KONEX,1010251517,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-18,KRX,KONEX,1142253113,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-19,KRX,KONEX,779277331,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-20,KRX,KONEX,674240779,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-21,KRX,KONEX,620975693,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-24,KRX,KONEX,642837524,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-25,KRX,KONEX,499077228,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-26,KRX,KONEX,545036546,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-27,KRX,KONEX,820116556,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-28,KRX,KONEX,1124471478,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-31,KRX,KONEX,573978837,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-01,KRX,KONEX,279931530,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-02,KRX,KONEX,344014343,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-03,KRX,KONEX,288088893,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-04,KRX,KONEX,1679010034,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-07,KRX,KONEX,623720569,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-08,KRX,KONEX,642925809,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-09,KRX,KONEX,361538336,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-10,KRX,KONEX,496209240,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-11,KRX,KONEX,199860163,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-14,KRX,KONEX,438805330,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-15,KRX,KONEX,441592932,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-16,KRX,KONEX,380434528,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-17,KRX,KONEX,312506099,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-18,KRX,KONEX,500986374,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-21,KRX,KONEX,434490056,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-22,KRX,KONEX,438631751,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-23,KRX,KONEX,688173803,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-28,KRX,KONEX,534193916,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-29,KRX,KONEX,1508704697,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-30,KRX,KONEX,815303784,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-01,KRX,KONEX,672699028,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-02,KRX,KONEX,691406238,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-06,KRX,KONEX,679180709,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-07,KRX,KONEX,439249650,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-08,KRX,KONEX,733555781,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-12,KRX,KONEX,541556654,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-13,KRX,KONEX,580924452,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-14,KRX,KONEX,589318770,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-15,KRX,KONEX,406868821,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-16,KRX,KONEX,458436810,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-19,KRX,KONEX,341563293,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-20,KRX,KONEX,406267225,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-21,KRX,KONEX,315401920,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-22,KRX,KONEX,216024842,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-23,KRX,KONEX,364621798,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-26,KRX,KONEX,317124439,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-27,KRX,KONEX,215430543,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-28,KRX,KONEX,340544457,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-29,KRX,KONEX,329929304,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-30,KRX,KONEX,295103014,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-02,KRX,KONEX,200799753,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-03,KRX,KONEX,245616851,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-04,KRX,KONEX,226716128,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-05,KRX,KONEX,283277455,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-06,KRX,KONEX,213094725,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-09,KRX,KONEX,279689949,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-03,KRX,KOSDAQ,5462789188676,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-04,KRX,KOSDAQ,5862963502138,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-05,KRX,KOSDAQ,6382739769093,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-06,KRX,KOSDAQ,6141036575862,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-07,KRX,KOSDAQ,5269045622597,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-10,KRX,KOSDAQ,7123386326954,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-11,KRX,KOSDAQ,6794187665612,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-12,KRX,KOSDAQ,6570350343112,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-13,KRX,KOSDAQ,7591627015008,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-14,KRX,KOSDAQ,7558694808716,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-18,KRX,KOSDAQ,8117588746755,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-19,KRX,KOSDAQ,6190328538591,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-20,KRX,KOSDAQ,5718050688540,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-21,KRX,KOSDAQ,5451774748382,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-24,KRX,KOSDAQ,4486486663129,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-25,KRX,KOSDAQ,4722226374475,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-26,KRX,KOSDAQ,4461309794805,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-27,KRX,KOSDAQ,5471982692462,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-28,KRX,KOSDAQ,4977396028118,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-31,KRX,KOSDAQ,5383437707664,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-01,KRX,KOSDAQ,4657939996393,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-02,KRX,KOSDAQ,5455798066838,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-03,KRX,KOSDAQ,4928732297315,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-04,KRX,KOSDAQ,6695498942504,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-07,KRX,KOSDAQ,6325477180193,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-08,KRX,KOSDAQ,8152341224018,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-09,KRX,KOSDAQ,7668398047579,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-10,KRX,KOSDAQ,11423706579856,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-11,KRX,KOSDAQ,6414352712900,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-14,KRX,KOSDAQ,6041070899672,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-15,KRX,KOSDAQ,6524334782617,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-16,KRX,KOSDAQ,6573258383034,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-17,KRX,KOSDAQ,6080480706132,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-18,KRX,KOSDAQ,7590852451071,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-21,KRX,KOSDAQ,8133397287551,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-22,KRX,KOSDAQ,8500046649735,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-23,KRX,KOSDAQ,8086910399961,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-28,KRX,KOSDAQ,6334788901072,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-29,KRX,KOSDAQ,8035983454274,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-30,KRX,KOSDAQ,7771793188396,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-01,KRX,KOSDAQ,8884481195419,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-02,KRX,KOSDAQ,8846913257224,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-06,KRX,KOSDAQ,9344937750610,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-07,KRX,KOSDAQ,8334828565216,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-08,KRX,KOSDAQ,8060445185753,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-12,KRX,KOSDAQ,6811394821141,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-13,KRX,KOSDAQ,7241090415247,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-14,KRX,KOSDAQ,6165147639367,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-15,KRX,KOSDAQ,7032944239581,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-16,KRX,KOSDAQ,6025907430445,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-19,KRX,KOSDAQ,5031564309636,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-20,KRX,KOSDAQ,5381245249639,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-21,KRX,KOSDAQ,5282049804611,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-22,KRX,KOSDAQ,6908568891721,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-23,KRX,KOSDAQ,5807985178128,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-26,KRX,KOSDAQ,4781135357606,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-27,KRX,KOSDAQ,6031177356744,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-28,KRX,KOSDAQ,7051239026210,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-29,KRX,KOSDAQ,6112993851787,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-30,KRX,KOSDAQ,6317485547017,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-02,KRX,KOSDAQ,5129045594941,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-03,KRX,KOSDAQ,5662620293553,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-04,KRX,KOSDAQ,6154058680079,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-05,KRX,KOSDAQ,5164952950799,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-06,KRX,KOSDAQ,5070131509708,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-09,KRX,KOSDAQ,4557503717813,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-03,KRX,KOSPI,26334639979834,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-04,KRX,KOSPI,28210782276065,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-05,KRX,KOSPI,25657753879758,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-06,KRX,KOSPI,26452136843346,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-07,KRX,KOSPI,24730513259160,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-10,KRX,KOSPI,19012122938798,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-11,KRX,KOSPI,21960667958787,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-12,KRX,KOSPI,27099498673748,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-13,KRX,KOSPI,34833076088710,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-14,KRX,KOSPI,27196789669229,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-18,KRX,KOSPI,29905562333708,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-19,KRX,KOSPI,23117060665788,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-20,KRX,KOSPI,28214478037670,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-21,KRX,KOSPI,28897809870542,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-24,KRX,KOSPI,26164058168184,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-25,KRX,KOSPI,24091207612468,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-26,KRX,KOSPI,22919344765240,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-27,KRX,KOSPI,22943592297062,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-28,KRX,KOSPI,21637450391320,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-31,KRX,KOSPI,27541999764633,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-01,KRX,KOSPI,19203446014878,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-02,KRX,KOSPI,18776771340679,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-03,KRX,KOSPI,22165009579126,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-04,KRX,KOSPI,17723649844597,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-07,KRX,KOSPI,21762300687997,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-08,KRX,KOSPI,26187832892542,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-09,KRX,KOSPI,22625772907400,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-10,KRX,KOSPI,28927893414375,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-11,KRX,KOSPI,19674135931129,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-14,KRX,KOSPI,21584367878807,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-15,KRX,KOSPI,17125579148073,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-16,KRX,KOSPI,16685829125131,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-17,KRX,KOSPI,17144039218537,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-18,KRX,KOSPI,28104963033556,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-21,KRX,KOSPI,20811214676966,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-22,KRX,KOSPI,23594110841842,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-23,KRX,KOSPI,22622748935927,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-28,KRX,KOSPI,23048679580250,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-29,KRX,KOSPI,18963537089000,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-09-30,KRX,KOSPI,20477180219275,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-01,KRX,KOSPI,18165652579726,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-02,KRX,KOSPI,15981135784703,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-06,KRX,KOSPI,20077938679463,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-07,KRX,KOSPI,20576543466151,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-08,KRX,KOSPI,24376304941323,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-12,KRX,KOSPI,22871052208284,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-13,KRX,KOSPI,28452295443623,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-14,KRX,KOSPI,21390191277562,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-15,KRX,KOSPI,28639946949378,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-16,KRX,KOSPI,20945425947131,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-19,KRX,KOSPI,20005585196750,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-20,KRX,KOSPI,17054914908506,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-21,KRX,KOSPI,18441435440428,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-22,KRX,KOSPI,14915688054191,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-23,KRX,KOSPI,17374311229081,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-26,KRX,KOSPI,12991167854047,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-27,KRX,KOSPI,16417010357990,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-28,KRX,KOSPI,21322074926491,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-29,KRX,KOSPI,27053910056228,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-10-30,KRX,KOSPI,20248472356982,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-02,KRX,KOSPI,15735806773230,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-03,KRX,KOSPI,14714784809964,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-04,KRX,KOSPI,23949377830097,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-05,KRX,KOSPI,23612858536677,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-06,KRX,KOSPI,28982904987343,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-11-09,KRX,KOSPI,18501945790197,KRW,,github.com/FinanceData/marcap (KRX data)
+2026-08-03,NSE,Cash market,1237754009659,INR,38485563,nsearchives.nseindia.com
+2026-08-04,NSE,Cash market,1245722869510,INR,35162071,nsearchives.nseindia.com
+2026-08-05,NSE,Cash market,1311341463621,INR,37496861,nsearchives.nseindia.com
+2026-08-06,NSE,Cash market,1356117104085,INR,39625909,nsearchives.nseindia.com
+2026-08-07,NSE,Cash market,1185408019928,INR,35977003,nsearchives.nseindia.com
+2026-08-10,NSE,Cash market,1213456781661,INR,37706428,nsearchives.nseindia.com
+2026-08-11,NSE,Cash market,1210357678281,INR,36990050,nsearchives.nseindia.com
+2026-08-12,NSE,Cash market,1308114016374,INR,38377483,nsearchives.nseindia.com
+2026-08-13,NSE,Cash market,1116357096507,INR,34656553,nsearchives.nseindia.com
+2026-08-14,NSE,Cash market,1055846558979,INR,34591191,nsearchives.nseindia.com
+2026-08-17,NSE,Cash market,1082802100561,INR,35360642,nsearchives.nseindia.com
+2026-08-18,NSE,Cash market,1094668399114,INR,34813336,nsearchives.nseindia.com
+2026-08-19,NSE,Cash market,1103152275387,INR,35203386,nsearchives.nseindia.com
+2026-08-20,NSE,Cash market,1100621494669,INR,34941595,nsearchives.nseindia.com
+2026-08-21,NSE,Cash market,1112332009153,INR,34342916,nsearchives.nseindia.com
+2026-08-24,NSE,Cash market,1102023960342,INR,37543452,nsearchives.nseindia.com
+2026-08-25,NSE,Cash market,1066550283841,INR,34295670,nsearchives.nseindia.com
+2026-08-26,NSE,Cash market,1155847016085,INR,33981239,nsearchives.nseindia.com
+2026-08-27,NSE,Cash market,1150714128581,INR,35125815,nsearchives.nseindia.com
+2026-08-28,NSE,Cash market,1106711124579,INR,34007193,nsearchives.nseindia.com
+2026-08-31,NSE,Cash market,1817178458802,INR,40308351,nsearchives.nseindia.com
+2026-09-01,NSE,Cash market,1240326023663,INR,37698597,nsearchives.nseindia.com
+2026-09-02,NSE,Cash market,1151845162925,INR,38764448,nsearchives.nseindia.com
+2026-09-03,NSE,Cash market,1115190423042,INR,34942897,nsearchives.nseindia.com
+2026-09-04,NSE,Cash market,1161633618900,INR,35661613,nsearchives.nseindia.com
+2026-09-07,NSE,Cash market,1029435084122,INR,37505655,nsearchives.nseindia.com
+2026-09-08,NSE,Cash market,1083646838039,INR,37220079,nsearchives.nseindia.com
+2026-09-09,NSE,Cash market,1214449578868,INR,39041902,nsearchives.nseindia.com
+2026-09-10,NSE,Cash market,1046454841688,INR,36188190,nsearchives.nseindia.com
+2026-09-11,NSE,Cash market,1159836311705,INR,40468467,nsearchives.nseindia.com
+2026-09-15,NSE,Cash market,1151980148080,INR,44824290,nsearchives.nseindia.com
+2026-09-16,NSE,Cash market,1107676449709,INR,43673752,nsearchives.nseindia.com
+2026-09-17,NSE,Cash market,982222108346,INR,38201956,nsearchives.nseindia.com
+2026-09-18,NSE,Cash market,1454091633659,INR,42324721,nsearchives.nseindia.com
+2026-09-21,NSE,Cash market,1018009374378,INR,36979392,nsearchives.nseindia.com
+2026-09-22,NSE,Cash market,1049686589004,INR,38850535,nsearchives.nseindia.com
+2026-09-23,NSE,Cash market,1086435530673,INR,40661826,nsearchives.nseindia.com
+2026-09-24,NSE,Cash market,1153282101180,INR,39483821,nsearchives.nseindia.com
+2026-09-25,NSE,Cash market,1027622303497,INR,36611198,nsearchives.nseindia.com
+2026-09-28,NSE,Cash market,1005352042139,INR,40509478,nsearchives.nseindia.com
+2026-09-29,NSE,Cash market,1615647332342,INR,49193546,nsearchives.nseindia.com
+2026-09-30,NSE,Cash market,1261288383865,INR,45044102,nsearchives.nseindia.com
+2026-10-01,NSE,Cash market,1318069569503,INR,48893618,nsearchives.nseindia.com
+2026-10-05,NSE,Cash market,1160727106423,INR,44780073,nsearchives.nseindia.com
+2026-10-06,NSE,Cash market,1097479854481,INR,39335236,nsearchives.nseindia.com
+2026-10-07,NSE,Cash market,1152686138767,INR,41064041,nsearchives.nseindia.com
+2026-10-08,NSE,Cash market,1170912571159,INR,47636795,nsearchives.nseindia.com
+2026-10-09,NSE,Cash market,1004172412815,INR,39309795,nsearchives.nseindia.com
+2026-10-12,NSE,Cash market,968631149692,INR,37653267,nsearchives.nseindia.com
+2026-10-13,NSE,Cash market,1057788816934,INR,38505460,nsearchives.nseindia.com
+2026-10-14,NSE,Cash market,1165603501433,INR,41416081,nsearchives.nseindia.com
+2026-10-15,NSE,Cash market,1190506300833,INR,41353808,nsearchives.nseindia.com
+2026-10-16,NSE,Cash market,1226010936480,INR,41603397,nsearchives.nseindia.com
+2026-10-19,NSE,Cash market,963256399952,INR,37472377,nsearchives.nseindia.com
+2026-10-21,NSE,Cash market,1108062040204,INR,45566881,nsearchives.nseindia.com
+2026-10-22,NSE,Cash market,1081024720469,INR,42604615,nsearchives.nseindia.com
+2026-10-23,NSE,Cash market,1231238903635,INR,53501357,nsearchives.nseindia.com
+2026-10-26,NSE,Cash market,1034111241896,INR,43845402,nsearchives.nseindia.com
+2026-10-27,NSE,Cash market,1198721216122,INR,42495386,nsearchives.nseindia.com
+2026-10-28,NSE,Cash market,1289639852603,INR,44459051,nsearchives.nseindia.com
+2026-10-29,NSE,Cash market,1179892020814,INR,41990659,nsearchives.nseindia.com
+2026-10-30,NSE,Cash market,1208524492300,INR,43793587,nsearchives.nseindia.com
+2026-11-02,NSE,Cash market,1163279944659,INR,43442480,nsearchives.nseindia.com
+2026-11-03,NSE,Cash market,1275923602188,INR,45378936,nsearchives.nseindia.com
+2026-11-04,NSE,Cash market,1307669381840,INR,46399005,nsearchives.nseindia.com
+2026-11-05,NSE,Cash market,1709681860127,INR,52551172,nsearchives.nseindia.com
+2026-11-06,NSE,Cash market,1531063497441,INR,46348210,nsearchives.nseindia.com
+2026-11-09,NSE,Cash market,1184754081332,INR,40118616,nsearchives.nseindia.com
+2026-11-11,NSE,Cash market,1553482310593,INR,50094199,nsearchives.nseindia.com
